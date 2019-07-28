@@ -1,0 +1,33 @@
+.container{
+    background-color: red;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    position: relative;
+    display: inline;
+}
+
+form{
+    margin: 0.3em;
+}
+
+.withdrawal{
+    float:left;
+}
+
+.deposit{
+    float:right;
+}
+
+p{
+    position: relative;
+    background-color:yellow;
+    width: 100px;
+    left:50%;
+    margin-left:-50px;
+}
